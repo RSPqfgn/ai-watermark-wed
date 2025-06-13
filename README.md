@@ -10,6 +10,4 @@
 - 在社区中保留归属的模糊性
 - 为意外的隐私泄露建立防御机制
 
-灵感来源于[kazutoiris/ai-watermark](https://github.com/kazutoiris/ai-watermark)*
-但是原项目只有手机版本，于是用AI写了个网页版。
-页面可以适配手机屏幕的比例，但不保证能在手机上正常使用，所以安卓手机用户建议使用原项目
+灵感来源于[kazutoiris/ai-watermark](https://github.com/kazutoiris/ai-watermark)，但是原项目只有手机版本，于是用AI写了个网页版。页面可以适配手机屏幕的比例，但不保证能在手机上正常使用，所以安卓手机用户建议使用原项目。
